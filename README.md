@@ -1,4 +1,4 @@
 # cv_resume
-My resume
+My cv
 
 I borrowed the template from [here](https://github.com/sb2nov/resume).
